@@ -1,5 +1,0 @@
-C:/Users/Aluno/Desktop/Labo5/QualquerNome/CMakeFiles/QualquerNome.dir
-C:/Users/Aluno/Desktop/Labo5/QualquerNome/CMakeFiles/edit_cache.dir
-C:/Users/Aluno/Desktop/Labo5/QualquerNome/CMakeFiles/rebuild_cache.dir
-C:/Users/Aluno/Desktop/Labo5/QualquerNome/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/Aluno/Desktop/Labo5/QualquerNome/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
